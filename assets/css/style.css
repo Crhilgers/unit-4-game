@@ -1,0 +1,56 @@
+body  {
+    background-image: url("assets/images/background.jpeg");
+    background-color: #cccccc;
+  }
+
+.aarnostImg {
+width: 300px;
+height: 300px;
+margin-left: 150px;
+border: 4px dashed tan;
+}
+h1 {
+    border: 3px solid black;
+    font-size: 65px;
+    text-align: center;
+    margin: 15px auto;
+    height: 130px;
+    width: 80%;
+}
+h2 {
+    border: 5px solid rgb(25, 182, 32);
+    background-color: yellow;
+    font-size: 75px;
+    text-align: center;
+    margin: 15px auto;
+    height: 130px;
+    width: 80%;
+}
+.stack {
+    border: 3px solid black;
+    font-size: 75px;
+    text-align: center;
+    margin: 15px auto;
+    height: 130px;
+    width: 65%;
+}
+.doors{
+    float: left;
+border: 3px solid black;
+font-size: 65px;
+text-align: center;
+margin: 15px auto;
+margin-right: 15px;
+margin-left: 100px;
+height: 130px;
+width: 45%;
+}
+.falls {
+    float: left;
+     border: 3px solid black;
+    font-size: 65px;
+    text-align: center;
+    margin: 15px auto;
+    height: 130px;
+    width: 45%;
+}
